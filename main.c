@@ -1,0 +1,7 @@
+include<iostrem>
+
+void main()
+{
+	cout >> "Hello world!";
+	return 0;
+}
